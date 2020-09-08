@@ -3,7 +3,7 @@ body{
     font-size: 15px;
     margin: 0px;
     padding: 0px;
-    background-color: #001010;
+    background-color: rgba(0,20,10,1);
 }
 
 header{
